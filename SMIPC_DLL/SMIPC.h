@@ -1,4 +1,6 @@
-//
+//This is the a multi client inter-process-communiciation library based on shared memory
+//@author: Song Gao
+//github: binee3162@gmail.com
 //
 
 
